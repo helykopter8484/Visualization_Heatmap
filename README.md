@@ -17,4 +17,4 @@ pip install <package-name>
 
 The resulting image is as follows:
 
-![Hetamap](Heatmap.png)
+![Hetamap](https://raw.githubusercontent.com/helykopter8484/Visualization_Heatmap/master/heatmap.png)
