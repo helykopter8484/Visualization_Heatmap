@@ -14,3 +14,7 @@ Libraries can be installed by using the Python Package Index - PIP.
 ```
 pip install <package-name>
 ```
+
+The resulting image is as follows:
+
+![Hetamap](Heatmap.png)
